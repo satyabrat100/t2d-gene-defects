@@ -1,0 +1,10 @@
+defect	share	median	q05	q95	below_6_5
+X beta-cell	0.2	-0.35	-0.42	-0.28	
+X beta-cell	0.5	-0.77	-0.9	-0.62	
+X beta-cell	1.0	-1.29	-1.49	-1.07	0.24
+Y insulin sensitivity	0.2	-0.27	-0.34	-0.2	
+Y insulin sensitivity	0.5	-0.6	-0.75	-0.46	
+Y insulin sensitivity	1.0	-1.04	-1.27	-0.82	0.16
+Z liver output	0.2	-0.36	-0.4	-0.35	
+Z liver output	0.5	-0.95	-1.04	-0.91	
+Z liver output	1.0	-2.11	-2.29	-2.0	0.82
